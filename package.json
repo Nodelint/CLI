@@ -1,0 +1,17 @@
+{
+  "name": "@nodelint/cli",
+  "version": "1.0.0",
+  "description": "Nodelint CLI",
+  "main": "index.js",
+  "type": "module",
+  "bin": {  
+    "nodelint": "./bin/index.js"  
+  },
+  "scripts": {
+    "dev": "node bin/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
